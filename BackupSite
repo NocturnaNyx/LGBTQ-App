@@ -412,25 +412,53 @@
      </center>
      </div>
     
+  
     
     <div id="rp" class="tab-pane fade">
       <center>
       <h3>Romantic Preferences</h3>
-  <div class="container">
-  <a href="#demo21" class="btn btn-info" data-toggle="collapse">Polyamorous</a>
-  <div id="demo21" class="collapse">
+       <br>
+        
+  <a href="#demo51" class="btn btn-info" data-toggle="collapse">Aromantic</a>
+  <div id="demo51" class="collapse">
     <br>
-   A term used to describe a person who desires a relationship containing more than the traditionally accepted two members.  Polyamory is often misconstrued as being unfaithful to one’s partner, however this is false as polyamorous relationships occur with the full consent of all involved parties.
-  </div>
-</div>
-     <br>
-  <a href="#demo22" class="btn btn-info" data-toggle="collapse">Panromantic</a>
-  <div id="demo22" class="collapse">
+   A term used to describe a person who is not romantically attracted to others regardless of gender identity.
+    </div>
+        
+        <br>
+        <br>
+        
+  <a href="#demo56" class="btn btn-info" data-toggle="collapse">Biromantic</a>
+  <div id="demo56" class="collapse">
+    <br>
+   A term used to describe a person who is romantically attracted to both the male and female genders.
+    </div>
+        
+        <br>
+        <br>
+        
+  <a href="#demo52" class="btn btn-info" data-toggle="collapse">Panromantic</a>
+  <div id="demo52" class="collapse">
     <br>
    A term used to describe a person who is romantically attracted to others of any gender identity.
     </div>
-      </div>
+        
+        <br>
+        <br>
+        
+  <a href="#demo53" class="btn btn-info" data-toggle="collapse">Polyamorous</a>
+  <div id="demo53" class="collapse">
+    <br>
+   A term used to describe a person who desires a relationship containing more than the traditionally accepted two members.  Polyamory is often misconstrued as being unfaithful to one’s partner, however this is false as polyamorous relationships occur with the full consent of all involved parties.
+  </div>
+
+  
+        <br>
+        <br>
+        <br>
+        
      </center>
+  </div>
  
     
 
@@ -495,8 +523,8 @@ A term used to describe those whose behaviours and appearance do not align with 
      <br>
      <br>
        
-  <a href="#demo" class="btn btn-info" data-toggle="collapse">Grey</a>
-  <div id="demo" class="collapse">
+  <a href="#demo100" class="btn btn-info" data-toggle="collapse">Grey</a>
+  <div id="demo100" class="collapse">
     <br>
 Used before other identities, the term grey falls under the asexual and aromantic spectrums and denotes a person who very rarely feels either sexual or romantic attraction to other people.
      </div>
