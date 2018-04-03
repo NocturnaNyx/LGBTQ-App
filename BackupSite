@@ -42,6 +42,9 @@
         <br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gay_flag.svg/800px-Gay_flag.svg.png" alt="https://goo.gl/images/1wjBrZ">
       </center>
+       <div id="ourmission" class="tab-pane fade">
+      <h3>Our Mission</h3>
+    </div>
     </div>
     <div id="dictionary" class="tab-pane fade">
       <h3>Dictionary</h3>
